@@ -1,0 +1,7 @@
+public class MonthlySalesTest
+{
+    public void addLensDesign()
+    {
+        salesLine.LensDesign = lensDesign;
+    }
+}
